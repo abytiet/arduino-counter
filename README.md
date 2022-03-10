@@ -1,2 +1,2 @@
 # arduino-counter
-simple counter Arduino
+Simple Arduino Counter using Adafruit SSD 1360
